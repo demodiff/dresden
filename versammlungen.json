@@ -1,0 +1,547 @@
+{
+  "Dateidatum": "2023-10-15",
+  "Tabellenkopf": [
+    {
+      "Datum": "Datum",
+      "Zeit": "Zeit",
+      "Thema": "Thema",
+      "Ort": "Versammlungsort",
+      "Startpunkt": "Startpunkt",
+      "Teilnehmer": "Teilnehmerprognose lt. Veranstalter",
+      "Veranstalter": "Veranstalter/-in",
+      "Status": "Status"
+    }
+  ],
+  "Versammlungen": [
+    {
+      "Datum": "2023-10-15",
+      "Zeit": "10.00 - 18.00 Uhr",
+      "Thema": "Russland raus aus der Ukraine! Kriegsverbrechen ahnden!",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-16",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-16",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-16",
+      "Zeit": "18.30 - 20.30 Uhr",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-20",
+      "Zeit": "10.00 - 11.00 Uhr",
+      "Thema": "Aktion für die Solidarität mit über 110 Millionen Menschen, die sich weltweit auf der Flucht befinden, eine demokratische Zivilgesellschaft und die Förderung der Vielfalt bürgerschaftlichen Engagements in Dresden.",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 20",
+      "Veranstalter": "AWO Landesverband Sachsen-Anhalt e. V. ",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-21",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-21",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "16",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-22",
+      "Zeit": "11.00 - 16.30 Uhr",
+      "Thema": "Greenpeace-Protest: 'Wäre hier Gas, Scholz würde bohren' - Umweltschützer:innen protestieren mit Bohrturm gegen Gasprojekte",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-22",
+      "Zeit": null,
+      "Thema": "Olof-Palme-Friedensmarsch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-22",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-23",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stoppt den Krieg in der Ukraine. Kampf der Weltkriegsgefahr!",
+      "Ort": null,
+      "Startpunkt": "Prager Straße",
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-23",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-23",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-27",
+      "Zeit": null,
+      "Thema": "Einkommensrunde für die Beschäftigten im öffentlichen Dienst der Länder",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "dbb beamtenbund und tarifunion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Heimath und Weltfrieden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Quergida-Comeback-Empfangskomittee – Dresden bleibt stabil",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Freie Sachsen unterstützen den Protest der Querdenker in Dresden - mit Stefan Trautmann für Frieden, Freiheit und Souveränität",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 30",
+      "Veranstalter": "Partei FREIE Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Haltung zeigen für unsere Demokratie! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.500",
+      "Veranstalter": "Haltung zeigen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Demo für Frieden und Freiheit - Reformation der Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-30",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-30",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-30",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-03",
+      "Zeit": null,
+      "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": null,
+      "Thema": "Freitanz legalisieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Piratenpartei Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Denkorte: Erinnerung und Mahnung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-11",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-12",
+      "Zeit": null,
+      "Thema": "Weg der Erinnerung – Verfolgung der Juden und der 13. Februar 1945 in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80 bis 150",
+      "Veranstalter": "Gesellschaft für Christlich-Jüdische Zusammenarbeit, die Katholische Dekanatsjugendseelsorge, die Jüdische Gemeinde Dresden und das Ev.-Luth. Stadtjugenpfarramt Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-13",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-13",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-18",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": "10.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": null,
+      "Thema": "Aktionstag gegen patriarchale Gewalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Aktionsbündnis gegen patriarchale Gewalt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-27",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-27",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-29",
+      "Zeit": null,
+      "Thema": "Kundgebung anlässlich des Apothekenprotesttages ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Sächsischer Apothekerverband e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-04",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-04",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-11",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-25",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-25",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    }
+  ]
+}
