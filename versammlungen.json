@@ -65,6 +65,26 @@
     },
     {
       "Datum": "2024-01-08",
+      "Zeit": "09.00 - 14.00 Uhr",
+      "Thema": "Korso für Freiheit und Demokratie",
+      "Ort": null,
+      "Startpunkt": "Schützenplatz (Bautzen)",
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-08",
+      "Zeit": null,
+      "Thema": "Es reicht!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-08",
       "Zeit": "06.00 - 17.00 Uhr",
       "Thema": "Die Ampel ist kaputt!",
       "Ort": "Anschlussstellen der A4 4 DD-Altstadt, A17 DD-Gorbitz",
