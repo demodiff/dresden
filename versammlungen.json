@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-07",
+  "Dateidatum": "2024-01-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,26 +65,6 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
-      "Thema": "Korso für Freiheit und Demokratie",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": null,
-      "Thema": "Es reicht!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-01-08",
       "Zeit": "06.00 - 17.00 Uhr",
       "Thema": "Die Ampel ist kaputt!",
       "Ort": "Anschlussstellen der A4 4 DD-Altstadt, A17 DD-Gorbitz",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Friedliche Demo gegen die Politik der Regierung  ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
