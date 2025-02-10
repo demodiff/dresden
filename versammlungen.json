@@ -51,16 +51,6 @@
       "Startpunkt": "Könneritzstraße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-10",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Strehlener Straße",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -69,6 +59,16 @@
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Nürnberger Platz",
       "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-10",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
@@ -97,16 +97,6 @@
       "Datum": "2025-02-10",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-10",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -117,7 +107,7 @@
       "Datum": "2025-02-10",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -137,6 +127,16 @@
       "Datum": "2025-02-10",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-10",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -147,7 +147,7 @@
       "Datum": "2025-02-10",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -165,9 +165,9 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -185,9 +185,9 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": "16.00 - 21.00 Uhr",
+      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -244,6 +244,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-02-10",
+      "Zeit": "19.15 - 20.00 Uhr",
+      "Thema": "Versammlung gegen das Querdenkenspektrum",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "20-30",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2025-02-11",
       "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Wahlermutigung zum Klimaschutz, Informationen zu den Aktivitäten der Omas for Future",
@@ -279,16 +289,6 @@
       "Thema": "Stilles Ge(h)denken Dresden",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "bis zu 100 über den Tag verteilt",
-      "Veranstalter": "Wellenlängen",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": null,
-      "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlängen",
       "Status": "abgemeldet"
@@ -296,11 +296,11 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Thema": "Stilles Ge(h)denken Dresden",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "bis zu 100 über den Tag verteilt",
+      "Veranstalter": "Wellenlängen",
       "Status": "angemeldet"
     },
     {
@@ -421,27 +421,37 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -647,8 +657,8 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
+      "Ort": "Nürnberger Platz",
+      "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -667,8 +677,8 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -687,16 +697,6 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -707,27 +707,7 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Postplatz",
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -747,27 +727,37 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Schloßplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Schlesischer Platz und Hansastraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -782,6 +772,26 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Freiberger Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Könneritzstraße und Weißeritzstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-14",
@@ -811,6 +821,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": null,
+      "Thema": "Wahlkampf der Internationalistischen Liste/MLPD: make socialism great again",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Marxistisch-Leninistische Partei Deutschlands (MLPD)",
       "Status": "angemeldet"
     },
     {
@@ -1087,16 +1107,6 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
@@ -1109,6 +1119,16 @@
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": "Strehlener Straße",
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Nürnberger Platz",
+      "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -1147,7 +1167,17 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -1167,17 +1197,7 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schloßplatz",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -1215,16 +1235,6 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Freiberger Straße",
@@ -1232,6 +1242,16 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-16",
@@ -1356,7 +1376,7 @@
     {
       "Datum": "2025-02-22",
       "Zeit": null,
-      "Thema": "direkte Demokratie",
+      "Thema": "Scherbengericht für direkte Demokratie",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
@@ -1495,6 +1515,16 @@
     },
     {
       "Datum": "2025-03-03",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-03",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1531,6 +1561,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Feministischer Klubabend ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-10",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1575,6 +1615,16 @@
     },
     {
       "Datum": "2025-03-17",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-17",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1595,6 +1645,16 @@
     },
     {
       "Datum": "2025-03-24",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-24",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1615,6 +1675,16 @@
     },
     {
       "Datum": "2025-03-31",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-31",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1635,6 +1705,16 @@
     },
     {
       "Datum": "2025-04-07",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-07",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1650,6 +1730,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-14",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1685,6 +1775,16 @@
     },
     {
       "Datum": "2025-04-21",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-21",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -1700,6 +1800,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-28",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
