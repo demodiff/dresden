@@ -1,0 +1,947 @@
+{
+  "Dateidatum": "2026-01-27",
+  "Tabellenkopf": [
+    {
+      "Datum": "Datum",
+      "Zeit": "Zeit",
+      "Thema": "Thema",
+      "Ort": "Versammlungsort",
+      "Startpunkt": "Startpunkt",
+      "Teilnehmer": "Teilnehmerprognose lt. Veranstalter",
+      "Veranstalter": "Veranstalter/-in",
+      "Status": "Status"
+    }
+  ],
+  "Versammlungen": [
+    {
+      "Datum": "2026-01-27",
+      "Zeit": "17.00 - 19.00 Uhr",
+      "Thema": "Den Opfern gedenken, das Leben feiern. ",
+      "Ort": null,
+      "Startpunkt": "Schlesischer Platz",
+      "Teilnehmer": "350",
+      "Veranstalter": "Ostra e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-27",
+      "Zeit": "12.00 - 16.00 Uhr",
+      "Thema": "Namenlesung",
+      "Ort": "An der Kreuzkirche",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ökumenisches Informationszentrum e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-27",
+      "Zeit": "17.00 - 20.00 Uhr",
+      "Thema": "WÜRDEVOLL ERINNERN",
+      "Ort": "Münchner Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "SPD Dresden-Plauen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-28",
+      "Zeit": "10.30 - 14.00 Uhr",
+      "Thema": "Hochschulaktionstag - Alle zusammen auf die Straße für bessere Arbeits- und Studienbedingungen!",
+      "Ort": null,
+      "Startpunkt": "Fritz-Förster-Platz ",
+      "Teilnehmer": "400",
+      "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": null,
+      "Thema": "Kein Schlussstrich! Solidarität mit den Betroffenen von NSU- und Naziterror! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": null,
+      "Thema": "Fuß- und Radentscheid Dresden - Forderungen nicht ignorieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-31",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-31",
+      "Zeit": null,
+      "Thema": "Sichtbarmachung der Gesichter und Schicksale der Opfer der Repression in Venezuela  - Forderung nach Schließung von Folterzentren und Freilassung aller politischen Gefangenen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-31",
+      "Zeit": null,
+      "Thema": "Defend Rojava",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-04",
+      "Zeit": null,
+      "Thema": "Holt Maja zurück - Antifaschismus ist notwendig, nicht kriminell!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-05",
+      "Zeit": null,
+      "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Mahngang Täter: innenspuren 2026",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Dresden Widersetzen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Nett hier, aber wart ihr schon mal in einer Stadt, wo man den Faschos nicht den roten Teppich ausrollt?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-09",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-09",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-09",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-12",
+      "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-12",
+      "Zeit": null,
+      "Thema": "Autokorso für die Flamme der Erinnerung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25 bis 40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Dresden kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette zum 13. Februar ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Fuchs, du hast die Wahrheit gestohlen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Uni",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache für die Opfer der Bombardierung Dresdens am 13.02.1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen Rechts! Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Keine Liebe für Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "'Tu was gegen Rechts! Demokratie stärken'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "PRüF: Prüfung Rette Übrigens Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "PRüF! Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Nett hier, aber wart ihr schon mal in einer Stadt, wo man den Faschos nicht den roten Teppich ausrollt?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-16",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-16",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-16",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-16",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-21",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-23",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-23",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-24",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-25",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-26",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-27",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-28",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-28",
+      "Zeit": null,
+      "Thema": "„Transmisogynie – Opfer schützen und Täter nicht!“ ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 100 bis 200",
+      "Veranstalter": "'AG Gleichstellung und Feminismus“ Die Linke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-28",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-01",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-02",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-02",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-05",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-07",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-09",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-09",
+      "Zeit": null,
+      "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Töchter Kollektiv",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-14",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-16",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-16",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-21",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-28",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-30",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-01",
+      "Zeit": null,
+      "Thema": "Unsere Zukunft ist kein Witz — Wir halten zusammen für ein besseres Morgen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Kampagne Jugend- und Gleichstellungsarbeit sichern",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-06",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-13",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-20",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-25",
+      "Zeit": null,
+      "Thema": "Trauerwache Deutschland – Gemeinsames Gedenken der Opfer der letzten 11 Jahre",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-27",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    }
+  ]
+}
