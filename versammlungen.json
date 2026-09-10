@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-09",
+  "Dateidatum": "2026-09-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-09-12",
-      "Zeit": null,
+      "Zeit": "13.00 - 19.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-12",
@@ -72,6 +72,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Ostwind ist Stress für Pferde",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-13",
