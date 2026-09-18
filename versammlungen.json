@@ -54,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-09-19",
+      "Zeit": "13.00 - 18.00 Uhr",
+      "Thema": "Mehr Platz für Menschen: PARKing Day Prießnitzstraße",
+      "Ort": null,
+      "Startpunkt": "Prießnitzstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-09-20",
       "Zeit": "15.15 - 16.45 Uhr",
       "Thema": "Kidical Mass: Die Zukunft fährt Fahrrad!",
@@ -77,8 +87,8 @@
       "Datum": "2026-09-21",
       "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": "Grundstraße",
-      "Startpunkt": null,
+      "Ort": null,
+      "Startpunkt": "Grundstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -105,13 +115,13 @@
     },
     {
       "Datum": "2026-09-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 15.30 Uhr",
       "Thema": "Jetzt reicht’s: Aktionstag Auto- und Zulieferindustrie in Berlin-Brandenburg-Sachsen",
-      "Ort": null,
+      "Ort": "Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "130",
       "Veranstalter": "IG Metall Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-22",
