@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-29",
+  "Dateidatum": "2026-09-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -111,6 +111,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Landesverband Sachsen des Deutschen Bühnenvereins",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-05",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
