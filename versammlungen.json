@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-10-17",
-      "Zeit": null,
+      "Zeit": "09.30 - 11.00 Uhr",
       "Thema": "Set The Date. Präsidentschaftswahlen in Venezuela fordern",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-19",
@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-10-24",
+      "Zeit": null,
+      "Thema": "Erhalt der Christlichen Werte in unserer Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-26",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -112,6 +122,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-28",
+      "Zeit": null,
+      "Thema": "Aktionstag faires PJ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Fachschaftsrat Medizin/Zahnmedizin Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-31",
