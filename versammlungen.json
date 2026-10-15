@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-14",
+  "Dateidatum": "2026-10-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-14",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Christliche Werte in Bezug auf das Deutsche Grundgesetz",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "ca. 10 Personen",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-15",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -80,6 +70,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-19",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
