@@ -1,0 +1,467 @@
+{
+  "Dateidatum": "2026-10-22",
+  "Tabellenkopf": [
+    {
+      "Datum": "Datum",
+      "Zeit": "Zeit",
+      "Thema": "Thema",
+      "Ort": "Versammlungsort",
+      "Startpunkt": "Startpunkt",
+      "Teilnehmer": "Teilnehmerprognose lt. Veranstalter",
+      "Veranstalter": "Veranstalter/-in",
+      "Status": "Status"
+    }
+  ],
+  "Versammlungen": [
+    {
+      "Datum": "2026-10-23",
+      "Zeit": null,
+      "Thema": "Demonstration für Demokratie in Brasilien – gegen Rechtsextremismus und Bolsonarismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-23",
+      "Zeit": "17.30 - 18.30 Uhr",
+      "Thema": "Zwangsräumung? Nicht in unserem Viertel!",
+      "Ort": "Konkordienplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": "11.00 - 15.00 Uhr",
+      "Thema": "Erhalt der Christlichen Werte in unserer Gesellschaft",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": "09.30 - 10.30 Uhr",
+      "Thema": "Kein Mensch ist illegal! ",
+      "Ort": "Schlesischer Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-26",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz ",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-26",
+      "Zeit": null,
+      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-26",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-27",
+      "Zeit": null,
+      "Thema": "Für sichere und leistungsfähige Radverkehrsanlagen auf der neuen Carolabrücke",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-28",
+      "Zeit": null,
+      "Thema": "Aktionstag faires PJ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Fachschaftsrat Medizin/Zahnmedizin Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-29",
+      "Zeit": null,
+      "Thema": "Zusammen Solidarisch in Gorbitz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "95 Thesen, für Vielfalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "GenZ regelt das!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "Reformation 2.0 – Tag für Frieden und Freiheit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "Der Tod, Was kommt danach?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz ",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-02",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine – Erinnerung an den andauernden Krieg ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-07",
+      "Zeit": "14.00 - 17.00 Uhr",
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-07",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-09",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz ",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-14",
+      "Zeit": null,
+      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-11-14",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-14",
+      "Zeit": null,
+      "Thema": "PRÜF",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-15",
+      "Zeit": null,
+      "Thema": "Weg der Erinnerung - Jüdisches Engagement für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80 bis 150",
+      "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-16",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz ",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-21",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz ",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-26",
+      "Zeit": null,
+      "Thema": "Kahlschlagshaushalt verhindern – Kürzungen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-28",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-28",
+      "Zeit": null,
+      "Thema": "#TeamNutznießerSachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-05",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-07",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "PRÜF",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-14",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-19",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-21",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-21",
+      "Zeit": null,
+      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-28",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    }
+  ]
+}
