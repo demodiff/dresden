@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-05",
+  "Dateidatum": "2026-11-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -44,6 +44,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-11-07",
+      "Zeit": null,
+      "Thema": "Für das Leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "Freie Baptisten Gemeinde Dresden n. e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -55,23 +65,33 @@
     },
     {
       "Datum": "2026-11-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-09",
+      "Zeit": null,
+      "Thema": "Keine Rechten Aufmärsche, zur Reichspogromnacht!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-09",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Mahngang von OMAS GEGEN RECHTS.DRESDEN zu Stolpersteinen in der Inneren und Äußeren Neustadt im Gedenken an die Pogromnacht 1938",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Eisenbahnstraße",
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN n.e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-10",
